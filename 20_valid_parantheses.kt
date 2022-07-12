@@ -1,3 +1,6 @@
+//Runtime: 219 ms, faster than 64.82% of Kotlin online submissions for Valid Parentheses.
+//Memory Usage: 34.2 MB, less than 74.70% of Kotlin online submissions for Valid Parentheses.
+
 fun isValid(s: String): Boolean {
     if(s.length % 2 != 0) return false
 
