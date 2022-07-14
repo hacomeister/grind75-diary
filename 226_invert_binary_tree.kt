@@ -1,5 +1,5 @@
-//Runtime: 223 ms, faster than 54.76% of Kotlin online submissions for Invert Binary Tree.
-//Memory Usage: 34.7 MB, less than 8.66% of Kotlin online submissions for Invert Binary Tree.
+//Runtime: 188 ms, faster than 79.00% of Kotlin online submissions for Invert Binary Tree.
+//Memory Usage: 34.4 MB, less than 27.27% of Kotlin online submissions for Invert Binary Tree.
 
 /**
  * Example:
